@@ -1,0 +1,18 @@
+C:\Users\Parth\source\repos\Unit Converter\Unit Converter\bin\Debug\Unit Converter.exe.config
+C:\Users\Parth\source\repos\Unit Converter\Unit Converter\bin\Debug\Unit Converter.exe.manifest
+C:\Users\Parth\source\repos\Unit Converter\Unit Converter\bin\Debug\Unit Converter.application
+C:\Users\Parth\source\repos\Unit Converter\Unit Converter\bin\Debug\Unit Converter.exe
+C:\Users\Parth\source\repos\Unit Converter\Unit Converter\bin\Debug\Unit Converter.pdb
+C:\Users\Parth\source\repos\Unit Converter\Unit Converter\bin\Debug\MetroFramework.Design.dll
+C:\Users\Parth\source\repos\Unit Converter\Unit Converter\bin\Debug\MetroFramework.dll
+C:\Users\Parth\source\repos\Unit Converter\Unit Converter\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Parth\source\repos\Unit Converter\Unit Converter\obj\Debug\Unit_Converter.Form1.resources
+C:\Users\Parth\source\repos\Unit Converter\Unit Converter\obj\Debug\Unit_Converter.Properties.Resources.resources
+C:\Users\Parth\source\repos\Unit Converter\Unit Converter\obj\Debug\Unit Converter.csproj.GenerateResource.cache
+C:\Users\Parth\source\repos\Unit Converter\Unit Converter\obj\Debug\Unit Converter.csproj.CoreCompileInputs.cache
+C:\Users\Parth\source\repos\Unit Converter\Unit Converter\obj\Debug\Unit Converter.exe.manifest
+C:\Users\Parth\source\repos\Unit Converter\Unit Converter\obj\Debug\Unit Converter.application
+C:\Users\Parth\source\repos\Unit Converter\Unit Converter\obj\Debug\Unit Converter.csproj.CopyComplete
+C:\Users\Parth\source\repos\Unit Converter\Unit Converter\obj\Debug\Unit Converter.exe
+C:\Users\Parth\source\repos\Unit Converter\Unit Converter\obj\Debug\Unit Converter.pdb
+C:\Users\Parth\source\repos\Unit Converter\Unit Converter\obj\Debug\Unit Converter.csprojAssemblyReference.cache
